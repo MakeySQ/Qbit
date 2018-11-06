@@ -1,6 +1,6 @@
-# qbit
+# balancingBot
 
-Qbit 확장 패키지
+밸런싱봇(balancingBot) 확장 패키지
 
 ## License
 
@@ -12,6 +12,6 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-qbit=github:MakeSQ/Qbit
+qbit=github:MakeSQ/balancingBot
 ```
 
