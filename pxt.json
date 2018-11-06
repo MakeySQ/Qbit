@@ -1,5 +1,5 @@
 {
-    "name": "qbit",
+    "name": "balancingBot",
     "version": "0.0.1",
     "description": "밸런싱봇을 위한 확장팩입니다.",
     "license": "MIT",
@@ -13,6 +13,8 @@
         "sendbuffer.asm",
         "_locales/ko/qbit-strings.json",
         "_locales/ko/qbit-jsdoc-strings.json",
+        "_locales/zh/qbit-strings.json",
+        "_locales/zh/qbit-jsdoc-strings.json",
     ],
     "testFiles": [
         "test.ts"
